@@ -1,0 +1,5 @@
+Web-Development mit Framworks Django o. Flask bspw.
+AI / BigData mit opencv
+Databases SQL/NoSQL
+Datavisualisation bspw. matplotlib
+Game-Development
